@@ -6,7 +6,7 @@
 # Prerequisite
 
 Recommended Ubuntu versions starting from 16.04 or 18.04 as those were the platform used for testing this approach. They are also known to be compatible with SITL.
-This plugin can be used with or without ROS integration. In both case we recommend to use Gazebo from the OSRF repository.
+This plugin can be used with or without ROS integration. In both case it is recommended to use Gazebo from the OSRF repository.
 
 
 
@@ -72,4 +72,18 @@ Setting path for models
 # Run Simulator    
 
     gazebo --verbose ~/ardupilot_gazebo/worlds/iris_arducopter_runway.world 
+    
+    
+ 
+ # launch SITL 
+ launch sitl in other terminal
+ 
+     cd ~/ardupilot/ArduCopter/
+     sim_vehicle.py -v ArduCopter -f gazebo-iris --console
+     
+     
+If you have not installed the ardupilot stack then refer below link to install it
+
+ https://github.com/punkypankaj/Installing-ArduPilot-directory/blob/main/docs.md
+ 
     
