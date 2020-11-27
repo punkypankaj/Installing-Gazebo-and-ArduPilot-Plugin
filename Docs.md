@@ -1,4 +1,7 @@
 # Installing-Gazebo-and-ArduPilot-Plugin
+#
+#
+#
 # Prerequisite
 
 Recommended Ubuntu versions starting from 16.04 or 18.04 as those were the platform used for testing this approach. They are also known to be compatible with SITL.
