@@ -67,3 +67,9 @@ Setting path for models
     
     . ~/.bashrc
     
+    
+    
+# Run Simulator    
+
+    gazebo --verbose ~/ardupilot_gazebo/worlds/iris_arducopter_runway.world 
+    
