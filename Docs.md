@@ -1,10 +1,11 @@
 # Installing-Gazebo-and-ArduPilot-Plugin
 
+# Detailed Youtube Video Link
 
+https://youtu.be/9cYW2FwJXg4
 
 
 # Prerequisite
-
 Recommended Ubuntu versions starting from 16.04 or 18.04 as those were the platform used for testing this approach. They are also known to be compatible with SITL.
 This plugin can be used with or without ROS integration. In both case it is recommended to use Gazebo from the OSRF repository.
 
