@@ -1,5 +1,5 @@
 # Installing-Gazebo-and-ArduPilot-Plugin 
-( Best Tested with Ubuntu 18 and Python2)
+( Best Tested with Ubuntu 18.04 and 20.04)
 
 # Detailed Youtube Video Link
 
