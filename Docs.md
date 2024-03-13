@@ -16,7 +16,7 @@ This plugin can be used with or without ROS integration. In both case it is reco
 # GAZEBO 
 Robot simulation is an essential tool in every roboticist's toolbox. A well-designed simulator makes it possible to rapidly test algorithms, design robots, perform regression testing, and train AI system using realistic scenarios. Gazebo offers the ability to accurately and efficiently simulate populations of robots in complex indoor and outdoor environments. Gazebo is free with a vibrant community.
 
-for more infromation on gazebo checkout http://gazebosim.org/
+Find more information on gazebo checkout http://gazebosim.org/
 
 # Installation
 
